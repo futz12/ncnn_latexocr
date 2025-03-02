@@ -5,6 +5,8 @@ A DeepLearn Model to rec Math formula.  一个深度学习库用来识别数学�
 
 输入为 数学公式 图片，输出为 latex格式的公式。
 
+LatexOCR.cpp为测试demo
+
 模型落地转换过程较为复杂，难以以短篇幅书面描述，如有兴趣者请联系作者。
 
 关于 NBCapture
