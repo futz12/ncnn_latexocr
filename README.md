@@ -9,7 +9,7 @@ LatexOCR.cpp为测试demo
 
 输入：
 
-[](./assets/latex.png)
+![](./assets/latex.png)
 
 输出：
 
