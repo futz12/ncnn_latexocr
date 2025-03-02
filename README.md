@@ -7,6 +7,14 @@ A DeepLearn Model to rec Math formula.  一个深度学习库用来识别数学�
 
 LatexOCR.cpp为测试demo
 
+输入：
+
+[](./assets/latex.png)
+
+输出：
+
+\exp \left[ \int d ^ { 4 } x g \phi \bar { \psi } \psi \right] = \sum _ { n = 0 } ^ { \infty } \frac { g ^ { n } } { n ! } \left( \int d ^ { 4 } x \phi \bar { \psi } \psi \right) ^ { n } .
+
 模型落地转换过程较为复杂，难以以短篇幅书面描述，如有兴趣者请联系作者。
 
 关于 NBCapture
